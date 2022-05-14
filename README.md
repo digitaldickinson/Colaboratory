@@ -1,2 +1,0 @@
-# Colaboratory
-Workbooks from Colaboratory 
